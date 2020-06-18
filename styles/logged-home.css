@@ -1,0 +1,25 @@
+header {
+    background-color: #3145A4;
+}
+
+a, a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.home--container {
+    background: #F7F8FD;
+}
+
+.blue-text {
+    color: #3145A4;
+}
+
+.user--container {
+    justify-content: space-evenly;
+}
+
+.btn-blue {
+    background-color: #3145A4;
+    color: #fff;
+}

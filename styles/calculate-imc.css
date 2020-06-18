@@ -1,0 +1,30 @@
+.form-group {
+   color: #3145A4;
+   border-bottom: 1px solid #3145A4;
+}
+
+.form-control:focus, .form-control:not(:focus) {
+    color: #3145A4;
+    border-bottom: 1px solid #3145A4;
+}
+
+.form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #3145A4;
+    opacity: 1; /* Firefox */
+}
+  
+.form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #3145A4;
+}
+
+.form-control::-ms-input-placeholder { /* Microsoft Edge */
+    color: #3145A4;
+}
+
+.red-text {
+    color: red;
+}
+
+.small-text {
+    font-size: 14px;
+}
